@@ -1,2 +1,2 @@
 # Portfolio
-using javascript css and html
+Using javascript CSS and HTML
